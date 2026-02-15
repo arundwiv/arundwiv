@@ -17,4 +17,4 @@ Building a Bhojpuri-first voice AI platform for underserved communities.
 Python | PyTorch | HuggingFace | PEFT | KenLM | GCP | Docker
 
 ## 📫 Contact
-LinkedIn: [(https://www.linkedin.com/in/arun-kumar-0844a14/)]
+LinkedIn: https://www.linkedin.com/in/arun-kumar-0844a14/
